@@ -1,0 +1,12 @@
+D:\Csharp avance\Multicouche TI-PAM2\NoteGest\DAL\bin\Debug\NoteGest.mdf
+D:\Csharp avance\Multicouche TI-PAM2\NoteGest\DAL\bin\Debug\NoteGest_log.ldf
+D:\Csharp avance\Multicouche TI-PAM2\NoteGest\DAL\bin\Debug\DAL.exe.config
+D:\Csharp avance\Multicouche TI-PAM2\NoteGest\DAL\bin\Debug\DAL.exe
+D:\Csharp avance\Multicouche TI-PAM2\NoteGest\DAL\bin\Debug\DAL.pdb
+D:\Csharp avance\Multicouche TI-PAM2\NoteGest\DAL\bin\Debug\BLL.exe
+D:\Csharp avance\Multicouche TI-PAM2\NoteGest\DAL\bin\Debug\BLL.pdb
+D:\Csharp avance\Multicouche TI-PAM2\NoteGest\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Csharp avance\Multicouche TI-PAM2\NoteGest\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\Csharp avance\Multicouche TI-PAM2\NoteGest\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+D:\Csharp avance\Multicouche TI-PAM2\NoteGest\DAL\obj\Debug\DAL.exe
+D:\Csharp avance\Multicouche TI-PAM2\NoteGest\DAL\obj\Debug\DAL.pdb

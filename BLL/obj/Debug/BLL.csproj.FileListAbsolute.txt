@@ -1,0 +1,8 @@
+D:\Csharp avance\Multicouche TI-PAM2\NoteGest\BLL\bin\Debug\BLL.exe.config
+D:\Csharp avance\Multicouche TI-PAM2\NoteGest\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Csharp avance\Multicouche TI-PAM2\NoteGest\BLL\obj\Debug\BLL.Properties.Resources.resources
+D:\Csharp avance\Multicouche TI-PAM2\NoteGest\BLL\obj\Debug\BLL.csproj.GenerateResource.Cache
+D:\Csharp avance\Multicouche TI-PAM2\NoteGest\BLL\bin\Debug\BLL.exe
+D:\Csharp avance\Multicouche TI-PAM2\NoteGest\BLL\bin\Debug\BLL.pdb
+D:\Csharp avance\Multicouche TI-PAM2\NoteGest\BLL\obj\Debug\BLL.exe
+D:\Csharp avance\Multicouche TI-PAM2\NoteGest\BLL\obj\Debug\BLL.pdb
